@@ -6,3 +6,4 @@ description = "A CLI tool for '櫻坂46メッセージ', '日向坂46メッセ�
 # match the style used in the rest of the module
 # clarify the control flow
 # match the style used in the rest of the module
+# guard against empty input
