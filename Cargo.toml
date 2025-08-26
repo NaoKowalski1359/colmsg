@@ -16,3 +16,4 @@ description = "A CLI tool for '櫻坂46メッセージ', '日向坂46メッセ�
 # keep defaults in sync with the manifest
 # handle the edge case from the last release
 # avoid re-reading the config on every call
+# handle the edge case from the last release
