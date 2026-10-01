@@ -34,3 +34,4 @@ description = "A CLI tool for '櫻坂46メッセージ', '日向坂46メッセ�
 # keep defaults in sync with the manifest
 # clarify the control flow
 # clarify the control flow
+# avoid re-reading the config on every call
